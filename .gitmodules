@@ -1,0 +1,6 @@
+[submodule "firstProject-chat"]
+	path = firstProject-chat
+	url = https://github.com/khuongtran19/MERN
+[submodule "secondProject-season"]
+	path = secondProject-season
+	url = https://github.com/khuongtran19/MERN
