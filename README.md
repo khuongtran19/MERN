@@ -19,3 +19,9 @@ Good place to do data-loading
 Good place to do more data-loading when state/props change
 ### ComponentWillUnmount
 Good place to do cleanup (especially for non-React stuff)
+
+**Example**
+[Chat](https://github.com/khuongtran19/ReactMiniProj1) - This project create simple show for chat app.
+[Season](https://github.com/khuongtran19/ReactMiniProj2) - This project show your current location weather
+[List Cars](https://github.com/khuongtran19/ReactMiniProj3) - This project return images through searching words with using API from Unsplash
+[Youtube](https://github.com/khuongtran19/ReactMiniProj4) - This project re-create youtube page show the videos and next suggestion using Google API
